@@ -1,0 +1,1 @@
+export const srk="http://localhost:5001"
